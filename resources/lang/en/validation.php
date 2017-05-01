@@ -106,8 +106,10 @@ return [
     */
 
     'attributes' => [
+        'name' => 'Name',
         'email' =>  'E-mail',
-        'password'  =>  'Password'
+        'password'  =>  'Password',
+        'password_confirmation' => 'Confirm your password'
     ],
 
 ];
