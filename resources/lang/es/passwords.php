@@ -27,4 +27,6 @@ return array(
 
     "reset"    => "Su contraseña ha sido restablecida!",
 
+    'email_subject' => "Recupera tu contraseña"
+
 );
